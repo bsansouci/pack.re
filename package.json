@@ -20,6 +20,6 @@
   "dependencies": {
     "rex-json": "1.0.2",
     "minimist.re": "0.0.2",
-    "reason-cli-tools": "1.0.4"
+    "reason-cli-tools": "bsansouci/reason-cli-tools"
   }
 }
