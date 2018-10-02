@@ -15,11 +15,11 @@
   "author": "Jared Forsyth",
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "bsansouci/bsb-native#2.1.1"
+    "bsb-native": "4.0.6"
   },
   "dependencies": {
-    "rex-json": "1.0.2",
-    "minimist.re": "0.0.2",
+    "rex-json": "bsansouci/rex-json#upgrade",
+    "minimist.re": "bsansouci/minimist.re",
     "reason-cli-tools": "bsansouci/reason-cli-tools"
   }
 }
